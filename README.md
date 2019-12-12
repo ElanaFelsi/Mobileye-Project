@@ -9,9 +9,6 @@
 * numpy
 * matplotlib
 * jupyterlab
-* list here libraries/code used
-* list here libraries/code used
-* list here libraries/code used
 
 ## Credits
 * list here website/blog post/article/book/friend
