@@ -11,12 +11,7 @@
 * jupyterlab
 
 ## Credits
-* list here website/blog post/article/book/friend
-* list here website/blog post/article/book/friend
-* list here website/blog post/article/book/friend
+* An Invitation to 3-D Vision - From Images to Models
 
 ## Special Thanks
-* list here
-* list here
-* list here
-* list here
+* Mobileye team
